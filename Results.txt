@@ -1,0 +1,16 @@
+This is a CMatrix: 3 x 3
+0	9	1	
+9	4	6	
+9	1	2	
+
+
+The matrix written in a circular mannor going in a spiral clockWise 
+0 9 1 6 2 1 9 9 4 
+Evens: 
+[0, 6, 2, 4, 0, 6, 2, 4]
+Sum:
+24
+Odds: 
+[9, 1, 1, 9, 9, 9, 1, 1, 9, 9]
+Sum:
+58
